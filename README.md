@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+- A Probot App completes actions automatically for you. 
 
 ## What it does
 
-FEATURES PLACEHOLDER
+- Completes tasks for you.
 
 ## Getting started
 

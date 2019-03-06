@@ -1,121 +1,78 @@
 CONTRIBUTOR CODE
 
-A Code of Conduct for Open Source Projects
+# Contributor Covenant Code of Conduct
 
-Open Source has always been a foundation of the Internet, and with the advent of social open source networks this is more true than ever. But free, libre, and open source projects suffer from a startling lack of diversity, with dramatically low representation by women, people of color, and other marginalized populations.
+## Our Pledge
 
-Often it is the unintentional assumptions and actions of project maintainers and participants that make open source projects unwelcoming (or even hostile) to marginalized people: making assumptions about gender or race, reinforcing stereotypes, using sexualized or otherwise inappropriate language, or demonstrating a lack of regard for the safety and well-being of vulnerable people.
+In the interest of fostering an open and welcoming environment, we as
+contributors and maintainers pledge to making participation in our project and
+our community a harassment-free experience for everyone, regardless of age, body
+size, disability, ethnicity, sex characteristics, gender identity and expression,
+level of experience, education, socio-economic status, nationality, personal
+appearance, race, religion, or sexual identity and orientation.
 
-One way to begin addressing this problem is to be overt in our openness, welcoming all people to contribute, and pledging in return to value them as whole human beings and to foster an atmosphere of kindness, cooperation, and understanding.
+## Our Standards
 
-Adopting the Contributor Covenant can be one way to express and codify these values and signal your intention to make your open source community welcoming, diverse, and inclusive.
+Examples of behavior that contributes to creating a positive environment
+include:
 
-Contributor Covenant v1.4.1
-You can view and download the latest version of the Contributor Covenant here:
+* Using welcoming and inclusive language
+* Being respectful of differing viewpoints and experiences
+* Gracefully accepting constructive criticism
+* Focusing on what is best for the community
+* Showing empathy towards other community members
 
-English (Markdown version)
-English (HTML version)
-English (text version)
-For translations of the Contributor Covenant, please see our translations page.
+Examples of unacceptable behavior by participants include:
 
-The Contributor Covenant uses semantic versioning for revisions so all URLs are permanent. Previous versions are available here: 1.0, 1.1, 1.2, and 1.3.
+* The use of sexualized language or imagery and unwelcome sexual attention or
+  advances
+* Trolling, insulting/derogatory comments, and personal or political attacks
+* Public or private harassment
+* Publishing others' private information, such as a physical or electronic
+  address, without explicit permission
+* Other conduct which could reasonably be considered inappropriate in a
+  professional setting
 
-Using the Contributor Covenant
-We recommend that you add the Markdown or text version of the Contributor Covenant to your source code repository at the root level.
+## Our Responsibilities
 
-Thanks to Simon Vansintjan there is an automated way to add Contributor Covenant to your project. Assuming that you have Node.js installed, simply run the following two commands from your project folder:
+Project maintainers are responsible for clarifying the standards of acceptable
+behavior and are expected to take appropriate and fair corrective action in
+response to any instances of unacceptable behavior.
 
-npm install -g covgen
-covgen <madalyn@edgelearn.co>
-If you have npm 5.x installed you can run npx covgen <your_email_address> instead of installing globally.
+Project maintainers have the right and responsibility to remove, edit, or
+reject comments, commits, code, wiki edits, issues, and other contributions
+that are not aligned to this Code of Conduct, or to ban temporarily or
+permanently any contributor for other behaviors that they deem inappropriate,
+threatening, offensive, or harmful.
 
-For subsequent projects, simply repeat the second command.
+## Scope
 
-You may want to add language similar to this to introduce your code of conduct:
+This Code of Conduct applies both within project spaces and in public spaces
+when an individual is representing the project or its community. Examples of
+representing a project or community include using an official project e-mail
+address, posting via an official social media account, or acting as an appointed
+representative at an online or offline event. Representation of a project may be
+further defined and clarified by project maintainers.
 
-Please note that this project is released with a Contributor Code of Conduct. By participating in this project you agree to abide by its terms.
+## Enforcement
 
-You may also use the permalinks given above to reference from your project home page.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be
+reported by contacting the project team at [madalyn@edgelearn.co]. All
+complaints will be reviewed and investigated and will result in a response that
+is deemed necessary and appropriate to the circumstances. The project team is
+obligated to maintain confidentiality with regard to the reporter of an incident.
+Further details of specific enforcement policies may be posted separately.
 
-Important! You must add a contact method to the placeholder in the document so that people know how to report violations.
+Project maintainers who do not follow or enforce the Code of Conduct in good
+faith may face temporary or permanent repercussions as determined by other
+members of the project's leadership.
 
-The Contributor Covenant is released under the Creative Commons Attribution 4.0 International Public License, which requires that attribution be included.
+## Attribution
 
-Enforcing the Contributor Covenant
+This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4,
+available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
 
-Morality cannot be legislated, but behavior can be regulated.
+[homepage]: https://www.contributor-covenant.org
 
-Dr. Martin Luther King, Jr.
-
-Do not simply add the Contributor Covenant to your project and assume that any problems with civility, harassment, or discrimination will be solved. As a project maintainer you must be committed to enforcing the code of conduct. A code of conduct without enforcement sends a false signal that your project is welcoming and inclusive, and can create a dangerous situation for marginalized people who participate. Adding the Contributor Covenant to a project places responsibility on the project team that must not be taken lightly.
-
-Before adopting the Contributor Covenant take the time to discuss and decide how to deal with problems as they emerge. Document the policy and procedure for enforcement, and add it to your README or in another visible, appropriate place. Consider if your project team has the willingness and maturity to follow through on your enforcement procedures.
-
-Some resources useful for thinking about enforcement:
-
-Community Safety and Accountability
-Enforcing Your Code of Conduct: Effective Incident Response
-Django Code of Conduct Enforcement Manual
-jQuery Foundation Code of Conduct Enforcement Manual
-How Mozilla is Making Code of Conduct Enforcement Real - and Scaling It
-Adopters of the Contributor Covenant
-This code of conduct has already been adopted by over 200,000 open source projects. Here are just a few major projects and organizations using the Contributor Covenant.
-
-Atom
-AngularJS
-Babel
-Bootstrap
-Bundler
-chef-rvm
-Cloud Native Compute Foundation
-CocoaPods
-Cucumber
-Crystal
-curl
-Diaspora
-Discourse
-Eclipse
-Electron
-Elixir
-Exercism.io
-GitLab
-Golang
-Google
-Homebrew-Cask
-Intel OTC
-Jekyll
-Jenkins
-JRuby
-Hanami
-Kong
-Kubernetes
-Linux
-Metasploit Framework
-Mono
-Mozilla Webmaker
-.NET Foundation
-Rails
-rbenv
-ROM
-RSpec
-ruby-community
-rubygems
-RubyGems.org
-RVM
-Salesforce OSS
-Shoes
-Spring
-Swift
-Symfony
-TensorFlow
-Travis CI
-Visual F#
-Vue.js
-Yarn
-See this page for more.
-
-To add your project to the list, submit a pull request.
-
-How to Contribute
-
-The Contributor Covenant is a living document, and has been open sourced. Contributions in the form of issues and pull requests are welcomed and encouraged.
+For answers to common questions about this code of conduct, see
+https://www.contributor-covenant.org/faq
